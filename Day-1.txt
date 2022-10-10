@@ -8,7 +8,7 @@
 3. Edit readMe file
 	a) Add yourself--hints:  # for h6 ### for h3 --double enter for next line
 	b) Add html file hints: ~~~ html ~~~
-	b) Add image from link:  animated code gif 
+	b) Add image from link:  animated coding gif 
 		i) Select image 
 		ii) Right click on image and open in new window
 		iii) copy image link

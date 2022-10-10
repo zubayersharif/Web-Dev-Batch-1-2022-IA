@@ -2,7 +2,7 @@
 	a) From google chrome search github.com and open 
 	b) Sign up if you new
 2. Open gitup 
-	d) upload file from your computer
+	a) upload file from your computer
 3. Edit readMe file
 	a) Add yourself--hints:  # for h6 ### for h3 --double enter for next line
 	b) Add html file hints: ~~~ html ~~~

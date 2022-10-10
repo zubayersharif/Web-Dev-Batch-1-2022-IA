@@ -2,8 +2,9 @@
 	a) From google chrome search github.com and open 
 	b) Sign up if you new (need help: download zip file from https://github.com/reza-iist/Web-Dev-Batch-1-2022-IA/ and see screenshot image 1-15 and follow it)
 2. Open gitup 
-	a) upload file from your computer
-	b) upload folder as zip file
+	a) create repository (click on right site + sine and select new repository)
+	b) upload file from your computer
+	c) upload folder as zip file
 3. Edit readMe file
 	a) Add yourself--hints:  # for h6 ### for h3 --double enter for next line
 	b) Add html file hints: ~~~ html ~~~

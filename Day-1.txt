@@ -1,6 +1,6 @@
 1. Github Account create
 	a) From google chrome search github.com and open 
-	b) Sign up if you new
+	b) Sign up if you new (need help: download zip file from https://github.com/reza-iist/Web-Dev-Batch-1-2022-IA/ and see screenshot image 1-15 and follow it)
 2. Open gitup 
 	a) upload file from your computer
 	b) upload folder as zip file
